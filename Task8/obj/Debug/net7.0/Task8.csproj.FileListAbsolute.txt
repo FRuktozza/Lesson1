@@ -1,0 +1,15 @@
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\bin\Debug\net7.0\Task8.exe
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\bin\Debug\net7.0\Task8.deps.json
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\bin\Debug\net7.0\Task8.runtimeconfig.json
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\bin\Debug\net7.0\Task8.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\bin\Debug\net7.0\Task8.pdb
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.csproj.AssemblyReference.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.AssemblyInfoInputs.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.AssemblyInfo.cs
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.csproj.CoreCompileInputs.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\refint\Task8.dll
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.pdb
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\Task8.genruntimeconfig.cache
+E:\Dev (E)\Заказы\140123 задачи си шарп\Task8\obj\Debug\net7.0\ref\Task8.dll
